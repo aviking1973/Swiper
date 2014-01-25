@@ -27,6 +27,7 @@ body {
 .swiper-content .movie-pic {
 	float: left;
 	border-radius: 5px;
+	padding:5px;
 	box-shadow: 0px 1px 2px #000;
 	width: 110px;
 	height: auto;
